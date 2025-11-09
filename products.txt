@@ -1,0 +1,20 @@
+Product Catalog - Fair Price Shop
+================================
+
+PRODUCT_ID | PRODUCT_NAME              | CATEGORY      | PRICE  | STOCK | DESCRIPTION
+-----------|---------------------------|---------------|--------|-------|-----------------------------
+P001       | Rice (1kg)                | Groceries     | 45.00  | 500   | Premium quality basmati rice
+P002       | Wheat Flour (1kg)         | Groceries     | 35.00  | 450   | Whole wheat flour
+P003       | Sugar (1kg)               | Groceries     | 42.00  | 300   | Refined white sugar
+P004       | Cooking Oil (1L)          | Groceries     | 120.00 | 200   | Sunflower cooking oil
+P005       | Dal/Lentils (1kg)         | Groceries     | 85.00  | 350   | Toor dal / Split pigeon peas
+P006       | Tea Powder (250g)         | Beverages     | 95.00  | 150   | Premium black tea powder
+P007       | Salt (1kg)                | Groceries     | 20.00  | 600   | Iodized table salt
+P008       | Turmeric Powder (100g)    | Spices        | 45.00  | 250   | Pure turmeric powder
+P009       | Red Chili Powder (100g)   | Spices        | 50.00  | 200   | Red chili powder
+P010       | Soap Bar (Pack of 3)      | Personal Care | 75.00  | 400   | Bathing soap bars
+P011       | Toothpaste (150g)         | Personal Care | 65.00  | 300   | Dental care toothpaste
+P012       | Detergent Powder (1kg)    | Household     | 150.00 | 180   | Laundry detergent
+P013       | Milk Powder (500g)        | Dairy         | 280.00 | 120   | Full cream milk powder
+P014       | Biscuits (200g)           | Snacks        | 30.00  | 500   | Glucose biscuits
+P015       | Noodles (Pack of 5)       | Instant Food  | 55.00  | 400   | Instant noodles

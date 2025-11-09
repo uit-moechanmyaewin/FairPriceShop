@@ -1,0 +1,15 @@
+Fair Price Shop Locations
+=========================
+
+SHOP_ID | SHOP_NAME                    | LOCATION           | ADDRESS                              | MANAGER_NAME      | PHONE          | TIMINGS
+--------|------------------------------|--------------------|------------------------------------|-------------------|----------------|------------------
+S001    | Fair Price Shop - Central   | Mumbai Central     | Plot 123, MG Road, Mumbai 400001   | Ramesh Kulkarni   | +91-9800000001 | 09:00 AM - 08:00 PM
+S002    | Fair Price Shop - South      | South Mumbai       | Shop 45, Colaba, Mumbai 400005     | Suresh Iyer       | +91-9800000002 | 09:00 AM - 08:00 PM
+S003    | Fair Price Shop - North      | North Mumbai       | B-12, Borivali, Mumbai 400092      | Prakash Nair      | +91-9800000003 | 09:00 AM - 08:00 PM
+S004    | Fair Price Shop - East       | East Mumbai        | 78 Ghatkopar, Mumbai 400077        | Vijay Sharma      | +91-9800000004 | 09:00 AM - 08:00 PM
+S005    | Fair Price Shop - West       | West Mumbai        | C-456, Andheri, Mumbai 400053      | Ajay Patil        | +91-9800000005 | 09:00 AM - 08:00 PM
+S006    | Fair Price Shop - Thane      | Thane              | Shop 89, Thane West 400601         | Mohan Das         | +91-9800000006 | 09:00 AM - 08:00 PM
+S007    | Fair Price Shop - Navi Mumbai| Navi Mumbai        | Plot 23, Vashi 400703              | Santosh Rao       | +91-9800000007 | 09:00 AM - 08:00 PM
+S008    | Fair Price Shop - Pune       | Pune City          | 156, FC Road, Pune 411004          | Ganesh Desai      | +91-9800000008 | 09:00 AM - 08:00 PM
+S009    | Fair Price Shop - Delhi      | Central Delhi      | A-67, Connaught Place, Delhi       | Rajinder Singh    | +91-9800000009 | 09:00 AM - 08:00 PM
+S010    | Fair Price Shop - Bangalore  | Bangalore Central  | 234, MG Road, Bangalore 560001     | Krishnan Murthy   | +91-9800000010 | 09:00 AM - 08:00 PM

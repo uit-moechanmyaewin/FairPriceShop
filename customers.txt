@@ -1,0 +1,20 @@
+Customer Database - Fair Price Shop
+===================================
+
+CUSTOMER_ID | NAME                | PHONE          | EMAIL                      | ADDRESS                          | CARD_NUMBER
+------------|---------------------|----------------|----------------------------|----------------------------------|-------------
+C001        | Rajesh Kumar        | +91-9876543210 | rajesh.kumar@email.com     | 123 MG Road, Mumbai             | FPS-2023-001
+C002        | Priya Sharma        | +91-9876543211 | priya.sharma@email.com     | 456 Park Street, Kolkata        | FPS-2023-002
+C003        | Anil Desai          | +91-9876543212 | anil.desai@email.com       | 789 Anna Salai, Chennai         | FPS-2023-003
+C004        | Sunita Patel        | +91-9876543213 | sunita.patel@email.com     | 321 Ring Road, Ahmedabad        | FPS-2023-004
+C005        | Mohammed Ali        | +91-9876543214 | mohammed.ali@email.com     | 654 Nehru Place, Delhi          | FPS-2023-005
+C006        | Lakshmi Reddy       | +91-9876543215 | lakshmi.reddy@email.com    | 987 Banjara Hills, Hyderabad    | FPS-2023-006
+C007        | Vikram Singh        | +91-9876543216 | vikram.singh@email.com     | 147 Civil Lines, Jaipur         | FPS-2023-007
+C008        | Meera Nair          | +91-9876543217 | meera.nair@email.com       | 258 MG Road, Bangalore          | FPS-2023-008
+C009        | Amit Gupta          | +91-9876543218 | amit.gupta@email.com       | 369 Sector 17, Chandigarh       | FPS-2023-009
+C010        | Kavita Joshi        | +91-9876543219 | kavita.joshi@email.com     | 741 FC Road, Pune               | FPS-2023-010
+C011        | Ravi Krishnan       | +91-9876543220 | ravi.krishnan@email.com    | 852 Marine Drive, Kochi         | FPS-2023-011
+C012        | Deepa Menon         | +91-9876543221 | deepa.menon@email.com      | 963 Residency Road, Mysore      | FPS-2023-012
+C013        | Suresh Yadav        | +91-9876543222 | suresh.yadav@email.com     | 159 Station Road, Lucknow       | FPS-2023-013
+C014        | Anjali Verma        | +91-9876543223 | anjali.verma@email.com     | 357 Mall Road, Shimla           | FPS-2023-014
+C015        | Kiran Patil         | +91-9876543224 | kiran.patil@email.com      | 486 Shivaji Nagar, Nagpur       | FPS-2023-015

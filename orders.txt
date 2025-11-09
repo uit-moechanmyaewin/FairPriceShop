@@ -1,0 +1,25 @@
+Order Records - Fair Price Shop
+===============================
+
+ORDER_ID | CUSTOMER_ID | ORDER_DATE  | PRODUCT_ID | QUANTITY | TOTAL_AMOUNT | STATUS      | PAYMENT_METHOD
+---------|-------------|-------------|------------|----------|--------------|-------------|---------------
+O001     | C001        | 2024-01-15  | P001       | 5        | 225.00       | Delivered   | Card
+O002     | C001        | 2024-01-15  | P003       | 2        | 84.00        | Delivered   | Card
+O003     | C002        | 2024-01-16  | P004       | 1        | 120.00       | Delivered   | Cash
+O004     | C003        | 2024-01-17  | P002       | 3        | 105.00       | Delivered   | UPI
+O005     | C004        | 2024-01-18  | P005       | 2        | 170.00       | Delivered   | Card
+O006     | C005        | 2024-01-19  | P010       | 4        | 300.00       | Delivered   | Cash
+O007     | C006        | 2024-01-20  | P013       | 1        | 280.00       | Delivered   | Card
+O008     | C007        | 2024-01-21  | P015       | 5        | 275.00       | Processing  | UPI
+O009     | C008        | 2024-01-22  | P014       | 10       | 300.00       | Shipped     | Card
+O010     | C009        | 2024-01-23  | P012       | 2        | 300.00       | Delivered   | Cash
+O011     | C010        | 2024-01-24  | P001       | 10       | 450.00       | Processing  | Card
+O012     | C011        | 2024-01-25  | P006       | 3        | 285.00       | Shipped     | UPI
+O013     | C012        | 2024-01-26  | P011       | 5        | 325.00       | Delivered   | Card
+O014     | C013        | 2024-01-27  | P007       | 8        | 160.00       | Processing  | Cash
+O015     | C014        | 2024-01-28  | P008       | 4        | 180.00       | Shipped     | UPI
+O016     | C015        | 2024-01-29  | P009       | 3        | 150.00       | Delivered   | Card
+O017     | C001        | 2024-01-30  | P014       | 15       | 450.00       | Processing  | Card
+O018     | C002        | 2024-01-31  | P015       | 8        | 440.00       | Shipped     | Cash
+O019     | C003        | 2024-02-01  | P004       | 2        | 240.00       | Delivered   | UPI
+O020     | C004        | 2024-02-02  | P013       | 2        | 560.00       | Processing  | Card
